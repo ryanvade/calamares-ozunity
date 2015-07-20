@@ -42,9 +42,7 @@ Presentation
         Text {
             anchors.horizontalCenter: background1.horizontalCenter
             anchors.top: background1.bottom
-            text: "Welcome to Manjaro.<br/>"+
-                  "Manjaro is driven by a hardworking and dedicated community.<br/>"+
-                  "During the installation, this slideshow will provide a quick introduction."
+            text: "Welcome to Oz Unity Emerald Edition.<br/>"
             wrapMode: Text.WordWrap
             width: 600
             horizontalAlignment: Text.Center
@@ -63,9 +61,7 @@ Presentation
         Text {
             anchors.horizontalCenter: background2.horizontalCenter
             anchors.top: background2.bottom
-            text: "All of Manjaros versions are completely customizable<br/>"+
-                  "to exactly how you want it. From theming, to the very<br/>"+
-                  "kernel itself, it can be changed."
+            text: "Built using a Manjaro base, Emerald Edition is fast and stable.<br/>"
             wrapMode: Text.WordWrap
             width: 600
             horizontalAlignment: Text.Center
@@ -84,9 +80,7 @@ Presentation
         Text {
             anchors.horizontalCenter: background3.horizontalCenter
             anchors.top: background3.bottom
-            text: "Manjaro has three different officially supported editions.<br/>"+
-                  "Additionally, there's a multitude of community editions to <br/>"+
-                  "choose from, built by the community, for the community."
+            text: "This release of Oz Unity is using Linux Kernel 3.18 with Gnome 3.16.<br/>"
             wrapMode: Text.WordWrap
             width: 600
             horizontalAlignment: Text.Center
@@ -105,9 +99,7 @@ Presentation
         Text {
             anchors.horizontalCenter: background4.horizontalCenter
             anchors.top: background4.bottom
-            text: "Manjaro has three different options for managing<br/>"+
-                  "packages. The original command line option, Pacman<br/>"+
-                  "and two different GUI options, Octopi or Pamac."
+            text: "Emerald edition is using the Pacman package manager just like Arch and Manjaro Linux.<br/>"
             wrapMode: Text.WordWrap
             width: 600
             horizontalAlignment: Text.Center
@@ -126,9 +118,8 @@ Presentation
         Text {
             anchors.horizontalCenter: background5.horizontalCenter
             anchors.top: background5.bottom
-            text: "We appreciate you choosing Manjaro, and hope you enjoy<br/>"+
-                  "it as much as we do making it! If you have any questions<br/>"+
-                  "or feedback, please feel free to visit the forum, IRC, or wiki."
+            text: "Thank you for using Oz Unity Emerald Editon! We hope you like it.<br/>"+
+		  "Please also check out Manjaro!"
             wrapMode: Text.WordWrap
             width: 600
             horizontalAlignment: Text.Center
