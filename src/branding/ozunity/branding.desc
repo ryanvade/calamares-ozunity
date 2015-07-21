@@ -3,7 +3,7 @@ componentName:  manjaro
 
 strings:
     productName:         Oz Unity
-    shortProductName:    OzUnity
+    shortProductName:    Oz Unity
     version:             0.2-beta
     shortVersion:        0.2
     versionedName:       Emerald Editon
